@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # GitHub API token (replace YOUR_GITHUB_API_TOKEN with your token or export it as an environment variable)
-TOKEN="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"
+TOKEN="*************************************" #token has been hidden for privacy
 AUTH_HEADER="Authorization: token $TOKEN"
 BASE_URL="https://api.github.com"
 SEARCH_URL="$BASE_URL/search/users?q=location:Sydney+followers:>100&per_page=100"
