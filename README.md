@@ -1,6 +1,6 @@
 # README File
 
- * ### Explanation: 
+ * ### **Explanation:** 
   I first generated a personal token from github developer settings to use while scraping data.
 
   I used the query link: "https://api.github.com/search/users?q=location:Sydney+followers:>100&per_page=100" to get the data needed.
@@ -14,6 +14,6 @@
     First user scraping was done and stored to user.csv.  
     Using each of the user logins, upto 500 latest repositories were scrapped and stored in repositories.csv  
 
- * Interesting fact:
+ * ### Interesting fact:
    
- * Recommendation
+ * ### Recommendation
