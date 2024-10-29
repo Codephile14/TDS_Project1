@@ -18,5 +18,9 @@
 
 
  * ### Interesting fact:
+   There very very weak correlation to having detailed user profile data like bio and getting more followers. Meanwhile providing email ID information does enhance your hirability a little bit.  
+   It's also interesting to see how coding languages have been changing with time, most of the datapoints are from earlier years like 2008, which makes sense since users with higher followers must have done most of their career work in later past.
+   It's also interesting to see how usage of coding language has evolved, 2008 the most used coding language was Ruby, which I wasnt familiar with at all until now, it still is dynamically changing.
    
  * ### Recommendation
+I recommend users to furnish their user data to as recent as possible, and not to flood information onto their profiles but rather by giving brief and crisp information. This would have higher outcomes of follower counts and hirability. Providing contact details for other developers and companies to get in touch is crucial. Stay up to date with the latest trend in software tools and languages used to avoid becoming obselete.
