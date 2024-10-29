@@ -8,15 +8,11 @@
   I made seperate bash script codes for extracting the user data and for repository data and depositing in csv file, the codes are attached along.
   
   In the code:
-    I created the respective csv files to write the data scraped, along with the needed coloumns.
-    
-    Using the curl function I scraped the data in form of JSON.
-    
-    Then wrote whichever data was needed about the user/repository into the csv file, from the scraped JSON.
-    
-    First user scraping was done and stored to user.csv.
-    
-    Using each of the user logins, upto 500 latest repositories were scrapped and stored in repositories.csv
+    + I created the respective csv files to write the data scraped, along with the needed coloumns.
+    + Using the curl function I scraped the data in form of JSON.
+    + Then wrote whichever data was needed about the user/repository into the csv file, from the scraped JSON.
+    + First user scraping was done and stored to user.csv.
+    + Using each of the user logins, upto 500 latest repositories were scrapped and stored in repositories.csv
 
  * Interesting fact:
    
